@@ -1,9 +1,0 @@
-{
-  "extends": "../../tsconfig.esm.json",
-  "compilerOptions": {
-    "baseUrl": ".",
-    "outDir": "esm",
-    "experimentalDecorators": true
-  },
-  "include": ["src/**/*"]
-}

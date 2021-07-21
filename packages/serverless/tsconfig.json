@@ -1,8 +1,0 @@
-{
-  "extends": "./tsconfig.build.json",
-  "include": ["src/**/*.ts", "test/**/*.ts"],
-  "compilerOptions": {
-    "rootDir": ".",
-    "types": ["node", "jest"]
-  }
-}

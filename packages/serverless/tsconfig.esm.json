@@ -1,9 +1,0 @@
-{
-  "extends": "../../tsconfig.esm.json",
-  "include": ["src/**/*"],
-  "compilerOptions": {
-    "baseUrl": ".",
-    "outDir": "esm",
-    "target": "ES2018"
-  }
-}

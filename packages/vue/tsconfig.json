@@ -1,9 +1,0 @@
-{
-  "extends": "./tsconfig.build.json",
-  "include": ["src/**/*.ts", "test/**/*.ts", "src/**/*.tsx", "test/**/*.tsx"],
-  "exclude": ["dist"],
-  "compilerOptions": {
-    "rootDir": ".",
-    "types": ["jest"]
-  }
-}
